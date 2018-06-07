@@ -1,0 +1,24 @@
+{
+  "name": "rarashobot",
+  "version": "1.0.0",
+  "description": "RarashoBot - A Telegram bot for cryptocurrency group HU3 BR Coin",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/barongello/rarashobot"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Rarasho",
+    "Cryptocurrency"
+  ],
+  "author": "Wagner Barongello <wagner@barongello.com.br>",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.20.0"
+  }
+}
